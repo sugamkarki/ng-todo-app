@@ -131,7 +131,7 @@
     ora "5.4.1"
     rxjs "6.6.7"
 
-"@angular/animations@~12.2.0":
+"@angular/animations@^12.2.3":
   version "12.2.3"
   resolved "https://registry.yarnpkg.com/@angular/animations/-/animations-12.2.3.tgz#2605e754d1e49d010400e1b4f9961cf29a459e48"
   integrity sha512-mX0NA05psPW97R9uVLvT3uuvFpZtlaeMVGsQyktyZvrbZVk89cr1DT4yHcwb8UNp9SMfN5prmq1l++Gkvu+c3w==
@@ -1627,6 +1627,11 @@ alphanum-sort@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/alphanum-sort/-/alphanum-sort-1.0.2.tgz#97a1119649b211ad33691d9f9f486a8ec9fbe0a3"
   integrity sha1-l6ERlkmyEa0zaR2fn0hqjsn74KM=
+
+angular-autofocus-fix@^0.1.2:
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/angular-autofocus-fix/-/angular-autofocus-fix-0.1.2.tgz#380a9472e9ae8174c2a2560960d5fc15d2d3bffd"
+  integrity sha512-P5l24by1q6CSaRW/yrjJis56SuECQwXGbwFOfrk6URn3ir+uDrabykF1vjQwKYPrhF2W/JdBfXeMwuKnQ94Bmg==
 
 ansi-colors@4.1.1:
   version "4.1.1"
@@ -7560,6 +7565,11 @@ wcwidth@^1.0.1:
   integrity sha1-8LDc+RW8X/FSivrbLA4XtTLaL+g=
   dependencies:
     defaults "^1.0.3"
+
+web-animations-js@^2.3.2:
+  version "2.3.2"
+  resolved "https://registry.yarnpkg.com/web-animations-js/-/web-animations-js-2.3.2.tgz#a51963a359c543f97b47c7d4bc2d811f9fc9e153"
+  integrity sha512-TOMFWtQdxzjWp8qx4DAraTWTsdhxVSiWa6NkPFSaPtZ1diKUxTn4yTix73A1euG1WbSOMMPcY51cnjTIHrGtDA==
 
 webpack-dev-middleware@5.0.0:
   version "5.0.0"
